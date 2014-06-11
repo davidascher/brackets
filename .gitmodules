@@ -27,4 +27,4 @@
 	url = https://github.com/douglascrockford/JSLint.git
 [submodule "src/thirdparty/filer"]
 	path = src/thirdparty/filer
-	url = https://github.com/simonwex/filer.git
+	url = https://github.com/js-platform/filer.git
